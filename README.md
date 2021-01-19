@@ -1,6 +1,8 @@
 ### Hey, I'm Emily ✨
 
-Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer. Creative thinker, passionate about learning, creating and tech's capacity to do good 💖
+Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer. 
+
+Creative thinker, passionate about learning, creating and tech's capacity to do good 💖
 
 **Here's what I'm working on at the moment:**
 
@@ -17,7 +19,7 @@ http://leaf-it-to-me.herokuapp.com/
 
 - 🛢️ SQL Lite
 
-<em>Feel free to send me a message via [LinkedIn](https://www.linkedin.com/in/emily-berryman-9a6a651a8/) or [Email](mailto:emilyrberryman@gmail.com)!</em>
+Get in touch via [LinkedIn](https://www.linkedin.com/in/emily-berryman-9a6a651a8/) or [Email](mailto:emilyrberryman@gmail.com)!
 
 <!--
 **emily-berryman/emily-berryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
