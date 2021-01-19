@@ -10,11 +10,12 @@ http://leaf-it-to-me.herokuapp.com/
 ⚡ Honing my JavaScript, React and Redux skills
 
 🔈 Listening to a variety of inspiring tech podcasts
-
+  
 **💪 Tech Stack**
 
--   💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
--   🛢️ SQL Lite
+💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
+
+🛢️ SQL Lite
 
 <em>Feel free to send me a message via [LinkedIn](https://www.linkedin.com/in/emily-berryman-9a6a651a8/) or [Email](mailto:emilyrberryman@gmail.com)!</em>
 
