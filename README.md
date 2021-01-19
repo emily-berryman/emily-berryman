@@ -1,8 +1,8 @@
 ### Hey, I'm Emily
 
-Recent graduate from Enspiral Dev Academy a 15-week intensive bootcamp, looking for a new role as a Full Stack Web Developer. 
+Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer
 
-[]Here's what I'm keeping busy with at the moment: 
+Here's what I'm keeping busy with at the moment: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 -   🌱 Adding new features to Leaf It To Me, a full stack plant care app made as our final group project over 5 days
