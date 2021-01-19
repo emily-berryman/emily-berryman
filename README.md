@@ -1,21 +1,21 @@
 ### Hey, I'm Emily ✨
 
-Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer
+Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer. Creative thinker, passionate about learning, creating and tech's capacity to do good 💖
 
 **Here's what I'm working on at the moment:**
 
-🌱 Adding new features to <em>Leaf It To Me</em>, a full stack plant care app made as our final group project over 5 days: 
+- 🌱 Adding new features to <em>Leaf It To Me</em>, a full stack plant care app made as our final group project over 5 days: 
 http://leaf-it-to-me.herokuapp.com/
 
-⚡ Honing my JavaScript, React and Redux skills
+- ⚡ Honing my JavaScript, React and Redux skills
 
-🔈 Listening to a variety of inspiring tech podcasts
+- 🔈 Listening to a variety of inspiring tech podcasts
   
 **💪 Tech Stack**
 
-💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
+- 💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
 
-🛢️ SQL Lite
+- 🛢️ SQL Lite
 
 <em>Feel free to send me a message via [LinkedIn](https://www.linkedin.com/in/emily-berryman-9a6a651a8/) or [Email](mailto:emilyrberryman@gmail.com)!</em>
 
