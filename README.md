@@ -2,7 +2,7 @@
 
 Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a new role as a Full Stack Web Developer. 
 
-Creative thinker, passionate about learning, creating and tech's capacity to do good 💖
+Creative thinker, passionate about learning, creating and tech's capacity for good 💖
 
 **Here's what I'm working on at the moment:**
 
@@ -11,8 +11,8 @@ http://leaf-it-to-me.herokuapp.com/
 
 - ⚡ Honing my JavaScript, React and Redux skills
 
-- 🔈 Listening to a variety of inspiring tech podcasts
-  
+- 🔈 Working on a bunch of new projects, including re-building the website for MESH - a music collective I'm a part of 
+
 **💪 Tech Stack**
 
 - 💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
