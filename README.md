@@ -11,7 +11,7 @@ http://leaf-it-to-me.herokuapp.com/
 
 - ⚡ Honing my JavaScript, React and Redux skills
 
-- 🔈 A bunch of new projects, including re-building the website for MESH - a music collective I'm a part of 
+- 🔈 A bunch of new projects, including re-building the website for MESH, a local electronic music collective I'm a part of 
 
 
 💪 Tech Stack:
