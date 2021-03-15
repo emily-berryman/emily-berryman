@@ -12,7 +12,7 @@ Currently working on:
 - 🌱 Adding new features to <em>Leaf It To Me</em>, a full stack plant care app made as our final group project over 5 days: 
 http://leaf-it-to-me.herokuapp.com/
 
-- 🔈 Check out some of my pinned projects below!
+Check out some of my other projects pinned below!
 
 
 Tech Stack:
