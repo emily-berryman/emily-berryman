@@ -4,7 +4,6 @@ Recent graduate of Enspiral Dev Academy web development bootcamp, looking for a 
 
 Creative thinker, passionate about learning, creating and tech's capacity for good 💖
 
-Check out some of my projects below! 
 
 Currently working on:
 
@@ -13,7 +12,7 @@ Currently working on:
 - 🌱 Adding new features to <em>Leaf It To Me</em>, a full stack plant care app made as our final group project over 5 days: 
 http://leaf-it-to-me.herokuapp.com/
 
-- 🔈 A bunch of new projects, including re-building the website for MESH, a local electronic music collective I'm a part of 
+- 🔈 Check out some of my pinned projects below!
 
 
 Tech Stack:
