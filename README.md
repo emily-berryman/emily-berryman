@@ -17,9 +17,7 @@ Check out some of my other projects pinned below!
 
 Tech Stack:
 
-- 💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
-
-- 🛢️ SQL Lite
+- 💻 HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux), 🛢️ SQL Lite3
 
 Get in touch via [LinkedIn](https://www.linkedin.com/in/emily-berryman-9a6a651a8/) or [Email](mailto:emilyrberryman@gmail.com)!
 
